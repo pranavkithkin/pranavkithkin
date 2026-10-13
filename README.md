@@ -266,7 +266,7 @@ The public reference for how I approach design engineering: typography, motion, 
 
 ### **Founder & CEO** | Synops Labs LLC
 
-`2026 - Present`
+`2025 - Present`
 
 Founded and lead a product engineering and AI systems company. Own the full lifecycle: product strategy, architecture, engineering, and delivery.
 
