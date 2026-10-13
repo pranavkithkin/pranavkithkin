@@ -328,8 +328,8 @@ Formal certifications are currently in progress. Until then, the verified engine
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranavkithkin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavkithkin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/pranavkithkin/pranavkithkin/stats/stats.svg" height="165" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/pranavkithkin/pranavkithkin/stats/top-langs.svg" height="165" alt="Top Languages" />
 
 <br/><br/>
 
